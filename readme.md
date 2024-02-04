@@ -8,12 +8,12 @@ Map2 shows US Covid-19 rates per county, hovering over the county allows you to 
 I used different style projections for each map based off of the colors used in the legend.
 The data collection is credited towards Professor Zhao for supplying the data to be formatted towards a JSON file.
 
-https://lh3.googleusercontent.com/pw/ABLVV87VsSNr_OYdiRa7Y223arhRKLT6KLvLzjbYOi9155zMC3rK7FhibMyWJpo9O8OcniPoLBR2jRBQAohmNub9FcyUB5jxYwqW6dS3whaijr5QOrsHwvQ=w2400 
 
+Map1
 <a href="https://lh3.googleusercontent.com/pw/ABLVV87VsSNr_OYdiRa7Y223arhRKLT6KLvLzjbYOi9155zMC3rK7FhibMyWJpo9O8OcniPoLBR2jRBQAohmNub9FcyUB5jxYwqW6dS3whaijr5QOrsHwvQ=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/ABLVV87VsSNr_OYdiRa7Y223arhRKLT6KLvLzjbYOi9155zMC3rK7FhibMyWJpo9O8OcniPoLBR2jRBQAohmNub9FcyUB5jxYwqW6dS3whaijr5QOrsHwvQ=w600-h315-p-k" /> </a> 
 
-https://lh3.googleusercontent.com/pw/ABLVV85w0I9_VwI4CCZCUe5yUC9tXyHRqmCDsv5C0fQ2RVWSyh7LOKU8vxNzjFzItD4dR4SADIbjC9TFbxTmtRLg6bOcO528l9-YE6cpb2BksLLA7PeB1-0=w2400
 
+Map2
 <a href="https://lh3.googleusercontent.com/pw/ABLVV85w0I9_VwI4CCZCUe5yUC9tXyHRqmCDsv5C0fQ2RVWSyh7LOKU8vxNzjFzItD4dR4SADIbjC9TFbxTmtRLg6bOcO528l9-YE6cpb2BksLLA7PeB1-0=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/ABLVV85w0I9_VwI4CCZCUe5yUC9tXyHRqmCDsv5C0fQ2RVWSyh7LOKU8vxNzjFzItD4dR4SADIbjC9TFbxTmtRLg6bOcO528l9-YE6cpb2BksLLA7PeB1-0=w600-h315-p-k" /> </a> 
 
 
