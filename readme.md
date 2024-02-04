@@ -1,9 +1,10 @@
 # US_covid_data_maps
 US_covid_data_maps for lab03
 
-The main function for the two maps are to show US data for Covid-19, based on cases and rates. Map1 shows US Covid-19 cases as a proportional map, you are able to click on the dots and it will say how many cases are in each US city. 
+The main function for the two maps are to show US data for Covid-19, based on cases and rates. Map1 shows US Covid-19 cases as a proportional map, you are able to click on the dots and it will say how many cases are in each US city.
+Link to map1. https://aspletr.github.io/US_covid_data_maps/map1.html 
 
-Map2 shows US Covid-19 rates per county, hovering over the county allows you to see the rate of Covid-19 cases.
+Map2 shows US Covid-19 rates per county, hovering over the county allows you to see the rate of Covid-19 cases. Link to map2. https://aspletr.github.io/US_covid_data_maps/map2.html 
 
 I used different style projections for each map based off of the colors used in the legend.
 The data collection is credited towards Professor Zhao for supplying the data to be formatted towards a JSON file.
